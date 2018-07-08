@@ -1,0 +1,8 @@
+Name: Zou Zijun
+Student ID: 48-186101
+
+The result videos are under the folder "result_video" folder. The source code is under the "src" folder. Function are realized in object.cpp file.
+
+I only finish the assignment 1 and assignment 3. For assignment 1, I used the shape matching and rigid transformation. For assignment 3, I used the mass-spring system to simulate the square, regarding each vertex of the square as a mass and every two vertexs connected by a spring.
+
+
